@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Проект для компании AppLab
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Техническое задание
 
 In the project directory, you can run:
 
